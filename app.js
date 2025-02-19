@@ -1,6 +1,6 @@
 
 
-//Implementa una función para agregar amigos.
+/*Implementa una función para agregar amigos.
 
 //Desarrolla una función, que permita al usuario ingresar un nombre en el campo de texto y añadirlo a la lista de amigos creada anteriormente.
 
@@ -49,4 +49,35 @@ function agregarAmigo() {
 
 //Generar un bucle para que se repita el agredao y gurdado de amigos en la lista.
 
-//Indicar la condición de salida del bucle
+//Indicar la condición de salida del bucle*/
+
+"use strict";
+
+const inputAmigo = document.getElementById("input-amigo"),
+  botonAgregar = document.getElementById("btn-agregar"),
+  botonSortear = document.getElementById("btn-sortear"),
+  listaAmigos = document.getElementById("lista-amigos"),
+  listaSorteado = document.getElementById("lista-resultado");
+
+const amigos = [];
+
+const validarInput = (textoInput) => textoInput && textoInput.trim().length > 0;
+
+const agregarAmigo = () => {
+  const nombre = inputAmigo.value;
+  if (!validarInput(nombre)) alert("Ingrese un nombre valido.");
+  else {
+    listaAmigos.innerText += `${nombre}\n`;
+    amigos.push(nombre);
+    inputAmigo.value = "";
+  }
+};
+
+const sortearAmigo = () => {
+  if (amigos.length == 0) {
+    alert("No hay amigos.");
+    return;
+  }
+  const aleatorio = Math.floor(Math.random() * amigos.length);
+  listaSorteado.innerText = `El amigo secreto es: ${amigos[aleatorio]}`;
+};
