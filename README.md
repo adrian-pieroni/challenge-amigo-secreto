@@ -3,10 +3,10 @@
 👨‍🎓 Estudiante de programación. Estoy cursando "Principiante en programacion en Oracle Next Education". Este proyecto forma parte del primer Challenge.
 
 ## 💻 Sobre mí
-- 📚 Me interesa la tecnología y las formas de resolver situaciones de la vida cotidiana a travez de ella.
+- 📚 Me interesa la tecnología y las formas de resolver situaciones de la vida cotidiana a través de ella.
 - Actualmente estoy aprendiendo **HTML, CSS y JavaScript**.
-- 📧 Podes encontrarme en adrian.pieroni02@gamil.com.
-- 🏊‍♂️ Dato curioso: además de la tecnología y la filosofía, me apaciona la natación en aguas abiertas.
+- 📧 Podes encontrarme en adrian.pieroni02@gmail.com.
+- 🏊‍♂️ Dato curioso: además de la tecnología y la filosofía, me apasiona la natación en aguas abiertas.
 
 ---
 
@@ -25,5 +25,5 @@ Este primer reto consiste en aplicar lógica de programación **JavaScript** par
 
 ### 🎯 **¿Qué aprendí en este Challenge?**
 - ✔ Uso de **funciones y métodos** en JavaScript.
-- ✔ Manejo de **arreglos** (agregar, elimminar, manipular datos).
+- ✔ Manejo de **arreglos** (agregar, eliminar, manipular datos).
 - ✔ Control del **DOM** (inputs, listas, botones y eventos).
