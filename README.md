@@ -11,7 +11,7 @@
 ---
 
 ## Challenge: Amigo Secreto
-Este primer reto consiste en aplicar lógica de programación **JavaScript** para agregar amigos a una lista en una página web. Luego a partir de la lista ingresada, la lógica selecciona con una funcionalidad pseudo al azar una amigo.
+Este primer reto consiste en aplicar lógica de programación **JavaScript** para agregar amigos a una lista en una página web. Luego a partir de la lista ingresada, la lógica selecciona con una funcionalidad pseudo al azar un amigo.
 
 ### 🧰 Herramientas utilizadas
 - **HTML5**
