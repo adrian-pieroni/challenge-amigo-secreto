@@ -19,11 +19,11 @@ Este primer reto consiste en aplicar lógica de programación **JavaScript** par
 - **JavaScript**
 
 ### 🧾 Funcionalidades:
-✔ **Validación de entrada**: Si el input está vacío, devuelve una alerta.
-✔ **Validación de amigos**: Si no hay amigos agregados, devuelve ana alerta.
-✔ **Sorteo**: Al hacer click en **Sortear Amigo**, el sistema elige un nombre de la lista utilizando una herramienta de JavaScript que genera númerros pseudo aleatorios y devuelve el nombre del amigo resultante.
+- ✔ **Validación de entrada**: Si el input está vacío, devuelve una alerta.
+- ✔ **Validación de amigos**: Si no hay amigos agregados, devuelve ana alerta.
+- ✔ **Sorteo**: Al hacer click en **Sortear Amigo**, el sistema elige un nombre de la lista utilizando una herramienta de JavaScript que genera númerros pseudo aleatorios y devuelve el nombre del amigo resultante.
 
 ### 🎯 **¿Qué aprendí en este Challenge?**
-🛫 Uso de **funciones y métodos** en JavaScript.
-🛫 Manejo de **arreglos** (agregar, elimminar, manipular datos).
-🛫 Control del **DOM** (inputs, listas, botones y eventos).
+- ✔ Uso de **funciones y métodos** en JavaScript.
+- ✔ Manejo de **arreglos** (agregar, elimminar, manipular datos).
+- ✔ Control del **DOM** (inputs, listas, botones y eventos).
